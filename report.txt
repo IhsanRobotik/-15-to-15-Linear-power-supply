@@ -1,0 +1,71 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'J1:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'J2:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'J3:Connector:Banana_Jack_1Pin'.
+Updated C1 properties.
+Add net unconnected-(C1-Pad1).
+Connected C1 pin 1 to unconnected-(C1-Pad1).
+Add net unconnected-(C1-Pad2).
+Connected C1 pin 2 to unconnected-(C1-Pad2).
+Added D2 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D2.
+Changed D2 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4004.
+Updated D2 symbol association from  to /825d6d94-3aa4-489c-9adf-6dcf9e485bdc.
+Updated D2 properties.
+Add net Net-(D2-K).
+Connected D2 pin 1 to Net-(D2-K).
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Added D3 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D3.
+Changed D3 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4004.
+Updated D3 symbol association from  to /d92d8aca-da0c-4de8-bbd8-81cdd6d200b8.
+Updated D3 properties.
+Add net Net-(D3-K).
+Connected D3 pin 1 to Net-(D3-K).
+Connected D3 pin 2 to Net-(D2-A).
+Added D4 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D4.
+Changed D4 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4004.
+Updated D4 symbol association from  to /551b6964-b29d-4543-8d24-ce2e1207b4b4.
+Updated D4 properties.
+Add net Net-(D4-K).
+Connected D4 pin 1 to Net-(D4-K).
+Connected D4 pin 2 to Net-(D2-K).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn').
+Added D5 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D5.
+Changed D5 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4004.
+Updated D5 symbol association from  to /a9e7e524-208d-42c7-884c-7ca5ca400577.
+Updated D5 properties.
+Connected D5 pin 1 to Net-(D4-K).
+Connected D5 pin 2 to Net-(D3-K).
+Changed REF** reference designator to C1.
+Added J1 (footprint 'Connector:Banana_Jack_1Pin').
+Changed REF** reference designator to J1.
+Changed J1 value from Banana_Jack_1Pin to AC12V.
+Updated J1 symbol association from  to /76c7b28b-b59c-496d-8fef-4895afe6e0d3.
+Updated J1 properties.
+Connected J1 pin 1 to Net-(D2-K).
+Changed C1 value from CP_Radial_D22.0mm_P10.00mm_SnapIn to C_Polarized.
+Added J2 (footprint 'Connector:Banana_Jack_1Pin').
+Changed REF** reference designator to J2.
+Changed J2 value from Banana_Jack_1Pin to GND.
+Updated J2 symbol association from  to /e6dbfdaf-b547-4c76-9972-34d2dd1245e9.
+Updated J2 properties.
+Add net unconnected-(J2-Pin_1-Pad1).
+Connected J2 pin 1 to unconnected-(J2-Pin_1-Pad1).
+Updated C1 symbol association from  to /91863808-67c7-4c40-be51-2948fae81ae4.
+Added J3 (footprint 'Connector:Banana_Jack_1Pin').
+Changed REF** reference designator to J3.
+Changed J3 value from Banana_Jack_1Pin to AC0V.
+Updated J3 symbol association from  to /43f1511d-9224-4842-9685-f3600782d6cb.
+Updated J3 properties.
+Connected J3 pin 1 to Net-(D3-K).
+
+
+Info: Total warnings: 0, errors: 0.
