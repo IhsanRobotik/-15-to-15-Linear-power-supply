@@ -532,15 +532,15 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "Power supply.cad",
-      "idf": "Power supply.emn",
+      "gencad": "exports/idf/Power supply.cad",
+      "idf": "exports/idf/Power supply.emn",
       "netlist": "",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "../../Power supply.dsn",
       "step": "",
       "svg": "",
-      "vrml": "../../Power supply.wrl"
+      "vrml": "exports/3d/Power supply.wrl"
     },
     "page_layout_descr_file": ""
   },

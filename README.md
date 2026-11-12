@@ -30,5 +30,5 @@ A compact linear bench supply with a custom PCB and enclosure. The front panel p
 - [KiCad project](Power%20supply.kicad_pro)
 - [Schematic](Power%20supply.kicad_sch)
 - [PCB layout](Power%20supply.kicad_pcb)
-- [Enclosure STEP model](Power%20supply.step)
-- [PDF drawing](PSU.pdf)
+- [Enclosure STEP model](exports/3d/Power%20supply.step)
+- [PDF drawing](exports/pdf/PSU.pdf)
