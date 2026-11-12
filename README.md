@@ -4,12 +4,6 @@ A compact linear bench supply with a custom PCB and enclosure. The front panel p
 
 ![Power supply enclosure, front isometric view](media/front%20cad%20isometry.png)
 
-## Design highlights
-
-- Two AC input terminals and a shared ground connection
-- Rectifier, filter capacitors, and discrete pass transistors for the adjustable outputs
-- LM7805 regulator for the fixed +5 V output
-- Enclosure with front-panel controls, banana jack outputs, ventilation, and rear power inlet
 
 ## PCB and schematic
 
